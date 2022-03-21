@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 2144430421
+    locked: 0
+  - name: Land
+    uniqueID: 1126961605
+    locked: 0
+  - name: Resource
+    uniqueID: 1304372553
+    locked: 0
+  - name: Building
+    uniqueID: 1296671091
+    locked: 0
+  - name: Mines
+    uniqueID: 3416106923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Numbers
+    uniqueID: 3975331601
+    locked: 0
+  - name: Clouds
+    uniqueID: 2619620465
+    locked: 0
+  - name: Cursor
+    uniqueID: 2803825845
+    locked: 0
+  - name: UI
+    uniqueID: 2725866839
+    locked: 0
